@@ -95,16 +95,6 @@ This Jupyter Notebook contains the Python code for **building the XGBoost classi
 - **🛠️ Core Tools:** Python, pandas, numpy, scikit-learn, XGBoost, SHAP.
 - **📄 Paper Mention:** This analysis was used to identify key gut microbial features in the ET-B and ET-L cohorts (Figures 3a,b and 4a,b) [cite: 175, 181] and key gut microbial metabolites (Supplementary Figures S1b,c)[cite: 173, 174]. The code is available in the GitHub repository[cite: 72].
 
----
-
-## 💾 Data Availability
-
-Gut microbiome metagenomic data used in this study were obtained from public databases (GMrepo, EMBL-EBI, and Google Scholar)[cite: 39]. Details of the data collection and screening process are in Supplementary Table S1 of the paper[cite: 44].
-
-The analysis scripts used during the current study are available in the GitHub repository:
-[https://github.com/WXG920713/Stroke-and-B.fragilis-EU](https://github.com/WXG920713/Stroke-and-B.fragilis-EU) 🌐 [cite: 72, 84, 309]
-
-The file `Website addresses of each data.xlsx` (provided as `Website addresses of each data.xlsx - Sheet1.csv` in this repository) likely contains the specific website addresses for the datasets used, as mentioned in Section 2.1 "Data acquisition and preprocessing" of the paper[cite: 39].
 
 ---
 
