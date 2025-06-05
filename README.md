@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="./images/image_b97f90.jpg" alt="Graphical Abstract" width="800"> 
+  <img src="https://github.com/WXG920713/Stroke-and-B.fragilis-EU/blob/main/graph%20abstract.png" alt="Graphical Abstract" width="800"> 
   <br>
   <em>Graphical Abstract: Key findings and workflow of this study. (Note: Please upload your 'image_b97f90.jpg' to an 'images' folder in your repository and ensure this path is correct, or use a direct public URL for the image.)</em>
 </p>
